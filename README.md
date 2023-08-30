@@ -19,6 +19,7 @@ Now you can insert your micro SD card back into your Raspberry Pi.
 You are ready to go. Power it up and enjoy!
 
 
+![20230830_233310](https://github.com/Jona-Walpert/Pwnagotchi-Waveshare-V3-Fix/assets/98217482/a71c1eaf-91da-4ab1-9f0d-bccb89f478e6)
 ![20230830_233324](https://github.com/Jona-Walpert/Pwnagotchi-Waveshare-V3-Fix/assets/98217482/5cfae935-961b-4dab-b932-2c8f7e5a5c28)
 
 
