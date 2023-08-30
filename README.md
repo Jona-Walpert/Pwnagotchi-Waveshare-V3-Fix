@@ -12,7 +12,7 @@ The easiest way to flash the image is by using the [Raspberry Pi Imager](https:/
 After flashing, add the config.toml file to the micro SD card, which you can also find in this repository. In that config.toml file, you should change the whitelist `network-SSID` and `another Network-SSID` to your own home network-SSID so your Pwnagotchi won't deauth your own devices. If you want, you can keep the grid enabled (`main.plugins.grid.enabled = true`). If not, change that setting to _"false"_.
 The same thing applies to the grid report. If you enabled the grid, then you should put the same SSIDs in, as mentioned before. If you want to use the web GUI, you can use your desired username and password instead of `username` and `password` (Edit: changing login credentials didn't work for me. The default login credentials are "changeme" "changeme". If you don't plan on using the web GUI, you can delete all those lines that start with `ui.web`).
 
-If you want to know how to access the web GUI, you can follow along with this [video](https://www.youtube.com/watch?v=km81ph7pZz8&t=1014s).
+If you want to know how to access the web GUI, you can follow along with this [video](https://www.youtube.com/watch?v=km81ph7pZz8&t=1014s) (Minute 14:09).
 
 ## final step
 Now you can insert your micro SD card back into your Raspberry Pi.
