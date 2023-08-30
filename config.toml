@@ -1,0 +1,29 @@
+main.name = "pwnagotchi"
+main.lang = "en"
+main.whitelist = [
+  "Network-SSID",
+  "another newtork-SSID or empty if none",
+  "fo:od:ba:be:fo:od",
+  "fo:od:ba"
+]
+
+main.plugins.grid.enabled = true
+main.plugins.grid.report = true
+main.plugins.grid.exclude = [
+  "Network-SSID",
+  "another newtork-SSID or empty if none"
+]
+
+ui.display.enabled = true
+ui.display.type = "waveshare_3"
+ui.display.color = "black"
+
+bettercap.handshakes = "/handshakes"
+
+ui.web.username = "username"
+ui.web.password = "password"
+ui.web.enabled = true
+ui.web.adress = "0.0.0.0"
+ui.web.origin = ""
+ui.web.port = 8080
+ui.web.on_frame = ""
