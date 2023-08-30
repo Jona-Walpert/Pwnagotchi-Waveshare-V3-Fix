@@ -18,3 +18,7 @@ If you want to know how to access the web GUI, you can follow along with this [v
 Now you can insert your micro SD card back into your Raspberry Pi.
 You are ready to go. Power it up and enjoy!
 
+
+![20230830_233324](https://github.com/Jona-Walpert/Pwnagotchi-Waveshare-V3-Fix/assets/98217482/5cfae935-961b-4dab-b932-2c8f7e5a5c28)
+
+
